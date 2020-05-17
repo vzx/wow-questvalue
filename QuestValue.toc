@@ -1,0 +1,6 @@
+## Interface: 80300
+## Title: QuestValue
+## Author: vzx8
+## Version: 1
+## Notes: Automatically selects the quest reward with the highest value
+QuestValue.lua
