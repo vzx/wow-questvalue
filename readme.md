@@ -9,5 +9,7 @@ Does **NOT**:
 
 On Curse Forge: https://www.curseforge.com/wow/addons/quest-value
 
+
 Copyright © 2020 vzx. All rights reserved.
+
 Licensed under GPLv3 (see license.txt).
